@@ -1,0 +1,11 @@
+.invalid-feedback {
+    color:red;
+}
+
+.invalid-feedback.zipcode{
+    display: none;
+}
+
+.invalid-feedback.country{
+    display: none;
+}
